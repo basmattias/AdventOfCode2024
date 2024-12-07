@@ -1,0 +1,9 @@
+C:\src\AoC24\Day2\bin\Debug\input.txt
+C:\src\AoC24\Day2\bin\Debug\sample.txt
+C:\src\AoC24\Day2\bin\Debug\Day2.exe.config
+C:\src\AoC24\Day2\bin\Debug\Day2.exe
+C:\src\AoC24\Day2\bin\Debug\Day2.pdb
+C:\src\AoC24\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+C:\src\AoC24\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\src\AoC24\Day2\obj\Debug\Day2.exe
+C:\src\AoC24\Day2\obj\Debug\Day2.pdb

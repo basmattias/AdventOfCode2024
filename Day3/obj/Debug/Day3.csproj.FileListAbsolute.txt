@@ -1,0 +1,9 @@
+C:\src\AoC24\Day3\bin\Debug\input.txt
+C:\src\AoC24\Day3\bin\Debug\sample.txt
+C:\src\AoC24\Day3\bin\Debug\Day3.exe.config
+C:\src\AoC24\Day3\bin\Debug\Day3.exe
+C:\src\AoC24\Day3\bin\Debug\Day3.pdb
+C:\src\AoC24\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
+C:\src\AoC24\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+C:\src\AoC24\Day3\obj\Debug\Day3.exe
+C:\src\AoC24\Day3\obj\Debug\Day3.pdb
