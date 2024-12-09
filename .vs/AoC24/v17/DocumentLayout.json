@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\src\\AoC24\\",
+  "WorkspaceRootPath": "C:\\src\\AdventOfCode2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DC66808-5D7B-4ECF-ACA0-22B7F4EC0B9D}|Day4\\Day4.csproj|c:\\src\\aoc24\\day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC66808-5D7B-4ECF-ACA0-22B7F4EC0B9D}|Day4\\Day4.csproj|solutionrelative:day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60A2E416-5D7C-4D13-B0B9-7E3D37610766}|Day5\\Day5.csproj|c:\\src\\adventofcode2024\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A2E416-5D7C-4D13-B0B9-7E3D37610766}|Day5\\Day5.csproj|solutionrelative:day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DC66808-5D7B-4ECF-ACA0-22B7F4EC0B9D}|Day4\\Day4.csproj|c:\\src\\aoc24\\day4\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7DC66808-5D7B-4ECF-ACA0-22B7F4EC0B9D}|Day4\\Day4.csproj|solutionrelative:day4\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC66808-5D7B-4ECF-ACA0-22B7F4EC0B9D}|Day4\\Day4.csproj|c:\\src\\aoc24\\day4\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7DC66808-5D7B-4ECF-ACA0-22B7F4EC0B9D}|Day4\\Day4.csproj|solutionrelative:day4\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A38B6-DAF0-43B4-9476-EF76F8C45F4F}|Day3\\Day3.csproj|c:\\src\\aoc24\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD7A38B6-DAF0-43B4-9476-EF76F8C45F4F}|Day3\\Day3.csproj|solutionrelative:day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A38B6-DAF0-43B4-9476-EF76F8C45F4F}|Day3\\Day3.csproj|c:\\src\\aoc24\\day3\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD7A38B6-DAF0-43B4-9476-EF76F8C45F4F}|Day3\\Day3.csproj|solutionrelative:day3\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A38B6-DAF0-43B4-9476-EF76F8C45F4F}|Day3\\Day3.csproj|c:\\src\\aoc24\\day3\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD7A38B6-DAF0-43B4-9476-EF76F8C45F4F}|Day3\\Day3.csproj|solutionrelative:day3\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1DD871-2543-44A3-A5ED-F0367BF8A81C}|Day2\\Day2.csproj|c:\\src\\aoc24\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1DD871-2543-44A3-A5ED-F0367BF8A81C}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66DF0C08-2A52-418D-9E4A-701CCB9500AB}|Day1\\Day1.csproj|C:\\src\\AoC24\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66DF0C08-2A52-418D-9E4A-701CCB9500AB}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60A2E416-5D7C-4D13-B0B9-7E3D37610766}|Day5\\Day5.csproj|c:\\src\\adventofcode2024\\day5\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{60A2E416-5D7C-4D13-B0B9-7E3D37610766}|Day5\\Day5.csproj|solutionrelative:day5\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,105 +94,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "sample.txt",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day4\\sample.txt",
-              "RelativeDocumentMoniker": "Day4\\sample.txt",
-              "ToolTip": "C:\\src\\AoC24\\Day4\\sample.txt",
-              "RelativeToolTip": "Day4\\sample.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-07T13:39:02.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "input.txt",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day4\\input.txt",
-              "RelativeDocumentMoniker": "Day4\\input.txt",
-              "ToolTip": "C:\\src\\AoC24\\Day4\\input.txt",
-              "RelativeToolTip": "Day4\\input.txt",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAuwIsAAACMAAAAAAAAAA==",
+              "Title": "sample.txt",
+              "DocumentMoniker": "C:\\src\\AdventOfCode2024\\Day5\\sample.txt",
+              "RelativeDocumentMoniker": "Day5\\sample.txt",
+              "ToolTip": "C:\\src\\AdventOfCode2024\\Day5\\sample.txt",
+              "RelativeToolTip": "Day5\\sample.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-07T13:38:59.649Z",
+              "WhenOpened": "2024-12-07T16:35:13.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day4\\Program.cs",
-              "RelativeDocumentMoniker": "Day4\\Program.cs",
-              "ToolTip": "C:\\src\\AoC24\\Day4\\Program.cs",
-              "RelativeToolTip": "Day4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:15:49.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "input.txt",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day3\\input.txt",
-              "RelativeDocumentMoniker": "Day3\\input.txt",
-              "ToolTip": "C:\\src\\AoC24\\Day3\\input.txt",
-              "RelativeToolTip": "Day3\\input.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAACYCwAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-06T21:19:22.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "sample.txt",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day3\\sample.txt",
-              "RelativeDocumentMoniker": "Day3\\sample.txt",
-              "ToolTip": "C:\\src\\AoC24\\Day3\\sample.txt",
-              "RelativeToolTip": "Day3\\sample.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-06T20:45:33.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day3\\Program.cs",
-              "RelativeDocumentMoniker": "Day3\\Program.cs",
-              "ToolTip": "C:\\src\\AoC24\\Day3\\Program.cs",
-              "RelativeToolTip": "Day3\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T20:45:16.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day1\\Program.cs",
-              "RelativeDocumentMoniker": "Day1\\Program.cs",
-              "ToolTip": "C:\\src\\AoC24\\Day1\\Program.cs",
-              "RelativeToolTip": "Day1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T19:41:16.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\AoC24\\Day2\\Program.cs",
-              "RelativeDocumentMoniker": "Day2\\Program.cs",
-              "ToolTip": "C:\\src\\AoC24\\Day2\\Program.cs",
-              "RelativeToolTip": "Day2\\Program.cs",
+              "DocumentMoniker": "C:\\src\\AdventOfCode2024\\Day5\\Program.cs",
+              "RelativeDocumentMoniker": "Day5\\Program.cs",
+              "ToolTip": "C:\\src\\AdventOfCode2024\\Day5\\Program.cs*",
+              "RelativeToolTip": "Day5\\Program.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T19:40:43.084Z",
+              "WhenOpened": "2024-12-07T16:33:03.418Z",
               "EditorCaption": ""
             }
           ]
